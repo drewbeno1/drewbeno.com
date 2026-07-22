@@ -35,7 +35,7 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
         <div class="card-img" style="background-image: url('/images/logo-leaf.png'); background-size: 80%; background-repeat: no-repeat"></div>
         <div class="card-content">
           <div class="card-title">R&D Engineer</div>
-          <div class="card-desc">Bridging Tech and Agriculture - Formulation & Product Engineer</div>
+          <div class="card-desc">R&D Team - Product Development</div>
         </div>
       </a>
     </div>
@@ -64,17 +64,31 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
           <div class="card-desc">Real-Time Pitch Tracking and Sabermetric Software</div>
         </div>
       </a>
+      <a href="http://fertmix.netlify.app/" target="_blank" class="card">
+        <div class="card-img" style="background-image: url('/images/fert.png'); background-size: 80%; background-repeat: no-repeat"></div>
+        <div class="card-content">
+          <div class="card-title">Fertmix</div>
+          <div class="card-desc">Precision Fertilizer Blend Formulation SaaS Tool</div>
+        </div>
+      </a>
       <a href="https://goodcareministry.com/" target="_blank" class="card">
-        <div class="card-img" style="background-image: url('/images/teacher.jpg'); background-size: 100%; background-repeat: no-repeat"></div>
+        <div class="card-img" style="background-image: url('/images/teacher.jpg'); background-size: 120%; background-repeat: no-repeat"></div>
         <div class="card-content">
           <div class="card-title">Good Care Children's Ministry</div>
           <div class="card-desc">Website Design</div>
         </div>
       </a>
-      <a href="https://clpbaseball.netlify.app/" target="_blank" class="card">
+      <a href="https://clpbaseball.com/" target="_blank" class="card">
         <div class="card-img" style="background-image: url('/images/favicon.png'); background-size: 80%; background-repeat: no-repeat"></div>
         <div class="card-content">
           <div class="card-title">Collegiate League of the Palm Beaches</div>
+          <div class="card-desc">Website Design</div>
+        </div>
+      </a>
+      <a href="https://onesourceforestry.netlify.app/" target="_blank" class="card">
+        <div class="card-img" style="background-image: url('/images/onesource.png'); background-size: 80%; background-repeat: no-repeat"></div>
+        <div class="card-content">
+          <div class="card-title">One Source Forestry</div>
           <div class="card-desc">Website Design</div>
         </div>
       </a>
